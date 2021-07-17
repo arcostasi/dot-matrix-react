@@ -78,7 +78,8 @@ class App extends React.Component {
   componentDidMount() {
     // Workaround for a Wokwi sometimes missing the first message
     let listener = setInterval(() => {
-      window.postMessage(
+      // eslint-disable-next-line no-restricted-globals
+      parent.postMessage(
         { app: "wokwi", command: "listen", version: 1 },
         "https://wokwi.com"
       );
