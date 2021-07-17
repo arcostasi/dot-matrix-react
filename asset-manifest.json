@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dot-matrix-react/static/css/main.e4cc2123.chunk.css",
-    "main.js": "/dot-matrix-react/static/js/main.ee607d5f.chunk.js",
-    "main.js.map": "/dot-matrix-react/static/js/main.ee607d5f.chunk.js.map",
+    "main.js": "/dot-matrix-react/static/js/main.db70ea1e.chunk.js",
+    "main.js.map": "/dot-matrix-react/static/js/main.db70ea1e.chunk.js.map",
     "runtime-main.js": "/dot-matrix-react/static/js/runtime-main.89cabdbc.js",
     "runtime-main.js.map": "/dot-matrix-react/static/js/runtime-main.89cabdbc.js.map",
     "static/js/2.d29339e7.chunk.js": "/dot-matrix-react/static/js/2.d29339e7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.89cabdbc.js",
     "static/js/2.d29339e7.chunk.js",
     "static/css/main.e4cc2123.chunk.css",
-    "static/js/main.ee607d5f.chunk.js"
+    "static/js/main.db70ea1e.chunk.js"
   ]
 }
